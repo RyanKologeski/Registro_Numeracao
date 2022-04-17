@@ -8,6 +8,8 @@ import javax.swing.*;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.text.Collator;
+import java.util.Locale;
 import java.util.Scanner;
 
 public class DataDAO {
@@ -52,6 +54,11 @@ public class DataDAO {
                 corta = linha.split(";");
 
                 if(data.getCodConsulta().equals(corta[1])){
+                    consFrame.getTextAreaConsulta().append(data.imprimeConsulta(corta));
+                    consulta += 1;
+                }
+
+                else if(data.getCodConsulta().equalsIgnoreCase(corta[0].toLowerCase())){
                     consFrame.getTextAreaConsulta().append(data.imprimeConsulta(corta));
                     consulta += 1;
                 }

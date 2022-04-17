@@ -10,13 +10,14 @@ public class Data {
     private String email;
     private String codConsulta;
 
-    public Data(String municipio, int cod, int crs, String numeracao, int qtdNumeracao, String email){
+    public Data(String municipio, int cod, int crs, String numeracao, int qtdNumeracao, String email, String codConsulta){
         this.municipio = municipio;
         this.cod = cod;
         this.crs = crs;
         this.numeracao = numeracao;
         this.qtdNumeracao = qtdNumeracao;
         this.email = email;
+        this.codConsulta = codConsulta;
     }
 
     public Data(){

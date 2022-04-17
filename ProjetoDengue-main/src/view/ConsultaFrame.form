@@ -52,7 +52,7 @@
           </grid>
         </constraints>
         <properties>
-          <text value="Código IBGE"/>
+          <text value="Código IBGE/Município"/>
         </properties>
       </component>
       <component id="f5227" class="javax.swing.JTextField" binding="fieldCodConsulta">
