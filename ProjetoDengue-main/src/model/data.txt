@@ -1,0 +1,78 @@
+﻿Três Coroas;432170;1;119;2695001 - 2695120;epidemio@pmtcoroas.com.br
+Cristal do Sul;430607;2;99;2695121 - 2695220;scheidvivi@hotmail.com
+Getulio Vargas;430890;11;99;2695221 - 2695320;epidemiologia.getulio@gmail.com
+Campinas do Sul;430380;11;99;2695321 - 2695420;vivilongo10@hotmail.com
+Novo Hamburgo;431340;1;499;2695421 - 2695920;vacina@novohamburgo.rs.gov.br
+Nonoai;431270;11;99;2695921 - 2696020;epidemiologia@nonoai.rs.gov.br
+São Gabriel;431830;10;9;2696021 - 2696030;saude.epidemio@saogabriel.rs.gov.br
+Capão da Canoa;430463;18;9;2696031 - 2696040;epidemio@capaodacanoa.rs.gov.br
+Aratiba;430090;11;9;2696041 - 2696050;lisianimbasso@gmail.com
+Guaporé;430940;5;19;2696051 - 2696070;epidemiologia@guapore.rs.gov.br
+Campo Bom;430390;1;199;2696071 - 2696270;epidemiologica@campobom.rs.gov.br
+Três Arroios;431634;11;19;2696271 - 2696290;esf@tresarroios.rs.gov.br
+Maquiné;437005;18;19;2696291 - 2696310;epidemio@maquine.rs.gov.br/vitorhugolumertzborges@gmail.com
+Erechim;431775;11;149;2696311 - 2696460;visa.epidemiologia@erechim.rs.gov.br
+Entre Rios;436957;11;49;2696461 - 2696510;giovanabrun@gmail.com
+Horizontina;430960;14;299;2696511 - 2696810;danielatubiana@horizontina.rs.gov.br
+Rio dos Índios;431555;11;9;2696811 - 2696820;sodertatiane@gmail.com
+Tucunduva;432210;14;19;2696821 - 2696840;vigilancia_saude@tucunduva.rs.gov.br
+Marcelino Ramos;431190;11;99;2696841 - 2696940;viviantrentin@hotmail.com
+Sapiranga;431990;1;99;2696941 - 2697040;dani.enf.rocha@gmail.com
+Santo Augusto;431780;17;49;2697041 - 2697090;sms@santoaugusto.rs.gov.br
+Itatiba do Sul;431070;0;19;2697091 - 2697110;itatibasaude@hotmail.com
+Jacutinga ;431090;11;9;2697111 - 2697120;rosineibleil@hotmail.com
+Lajeado;431140;16;299;2697121 - 2697420;vigilancia.epidemio@lajeado.rs.gov.br
+Santana do Livramento;0;10;79;2697421 - 2697500;epidemiolivramento@yahoo.com.br
+Rosario do Sul;431640;10;29;2697501 - 2697530;epidemiorosul@gmail.com
+São José do Inhacorá;431849;14;39;2697531 - 2697570;vigilanciasaudesji@outlook.com
+Portão;431480;0;99;2697571 - 2697670;vigilanciaepidemiologica@portao.rs.gov.br
+Parobé;431405;0;699;2697671 - 2698370;vigilancia.epidemio@parobe.rs.gov.br
+Imbé;431033;0;19;2698371 - 2698390;epidemio@imbe.rs.gov.br
+Santa Rosa;431720;14;699;2698391 - 2699090;equipecovid@fumssar.com.br
+Tucunduva;432210;14;19;2699091 - 2699110;vigilancia_saude@tucunduva.rs.gov.br
+Rolante;431600;0;19;2699111 - 2699130;epidemiorolante@gmail.com
+Cachoeira do Sul;430300;0;79;2699131 - 2699210;vigilancia.epidemiologica.dvs@gmail.com
+Canoas;430460;0;299;2699211 - 2699510;zoonoses.epicanoas@gmail.com
+Girua;430900;0;29;2699511 - 2699540;fefa_2272@hotmail.com
+Boa Vista do Buricá;430220;14;99;2699541 - 2699640;vigilancia.saude@boavistadoburica.rs.gov.br
+Guaporé;430940;5;49;2699641 - 2699690;epidemiologia@guaporé.rs.gov.br
+Santa Maria do Herval;431695;1;99;2699691 - 2699790;etmattos63@gmail.com
+Estância Velha;430760;0;399;2699791 - 2700190;epidemio@estanciavelha.rs.gov.br
+Dois Irmão;430640;0;999;2700191 - 2701190;epidemio.di@gmail.com
+Barão de Cotegipe;430170;0;59;2701191 - 2701250;ubs@baraodecotegipe.rs.gov.br
+Horizontina;430960;14;299;2701251 - 2701550;danielatubiana@horizontina.rs.gov.br
+Colinas;430558;16;129;2701551 - 2701680;covid@colinasrs.com.br
+Guaiba;430930;0;29;2701681 - 2701710;epidemioguaiba@gmail.com
+Condor;430570;0;199;2701711 - 2701910;silvanemasscarvalho@hotmail.com
+Sapucaia do Sul;432000;0;49; 2701911 -  2701960;cvssapucaiadosul@gmail.com
+Sapiranga;431990;1;199;2701961 - 2702160;dani.enf.rocha@gmail.com
+Presidente Lucena;431514;0;99;2702161 - 2702560;vigilanciapresidentelucena@gmail.com
+Arroio do Meio;430100;16;49;2702561 - 2702610;saude2@arroiodomeiors.com.br
+Pinhal;431445;0;199;2702611 - 2702810;jaquesignor@yahoo.com.br
+Três Coroas;432170;0;89;2702811 - 2702900;epidemio@pmtcoroas.com.br
+Sapucaia do Sul;432000;0;49;2702901 - 2702950;cvssapucaiadosul@gmail.com
+Novo Machado;431342;0;99;2702951 - 2703050;ivastrapa01@yahoo.com.br
+Tucunduva;432210;14;49;2703051 - 2703100;vigilancia_saude@tucunduva.rs.gov.br
+Cachoeira do Sul;430300;8;99;2703101 - 2703200;vigilancia.epidemiologica.dvs@gmail.com
+Jacutinga ;431090;0;19;2703201 - 2703220;rosineibleil@hotmail.com
+Osório;431350;0;9;2703221 - 2703230;epidemioosorio2021@gmail.com
+Tupandi;432225;0;49;2703231 - 2703280;vigilanciatupandi@gmail.com
+Parobé;431405;0;399;2703281 - 2703680;vigilancia.epidemio@parobe.rs.gov.br
+Nova Hartz;431306;0;29;2703681 - 2703720;epidemio@novahartz.rs.gov.br
+Novo Hamburgo;431340;1;499;2703721 - 2704220;vacina@novohamburgo.rs.gov.br
+Sapiranga;431990;0;199;2704221 - 2704420;dani.enf.rocha@gmail.com
+Júlio de Castilhos;431120;0;9;2704421 - 2704430;luceliapesamosca@gmail.com
+Guaporé;430940;0;49;2704431 - 2704480;epidemiologia@guaporé.rs.gov.br
+Tramandai;432160;0;29;2704481 - 2704510;epidemio.tramandai@gmail.com
+São Valentim;431970;0;19;2704511 - 2704530;ubs_saov@hotmail.com
+Campo Bom;430390;1;199;2704531 - 2704730;epidemiologica@campobom.rs.gov.br
+Frederico Westphalen;430850;2;199;2704731 - 2704930;ralbarello22@gmail.com
+Ametista do Sul;430064;2;99;2704931 - 2705030;cm_dall@yahoo.com.br
+Rodeio Bonito;431590;2;199;2705031 - 2705230;ale_lekatas@hotmail.com
+Caiçara;430340;2;99;2705231 - 2705330;beltomasi@yahoo.com.br
+Palmitinho;431380;2;99;2705331 - 2705430;enfermagem@palmitinho.rs.gov.br
+Novo Tiradentes;0;0;59;2705431 - 2705490;brunaoil23@outlook.com.br
+Seberi;432020;0;299;2705491 - 2705790;graci.ana@hotmail.com
+Erechim;430700;0;149;2705791 - 2705940;visa.epidemiologia@erechim.rs.gov.br
+Cristal do Sul;430607;0;99;2705941 - 2706040;scheidvivi@hotmail.com
+Estancia Velha;430760;0;199;2706041 - 2706240;epidemio@estanciavelha.rs.gov.br
